@@ -16,4 +16,4 @@
 < History (24-05-07) >
 - Hello GitHub!
 - Yachi Dice.py Upload - 야추 다이스 게임을 파이썬으로 작성함. 본 코드는 1학년 때 기말 대체과제로 나옴.
-- CP Game_Not_condition.py Upload - 조건문 없이 가위바위보 코드 작
+- CP Game_Non_Condition.py Upload - 조건문 없이 가위바위보 코드 작
